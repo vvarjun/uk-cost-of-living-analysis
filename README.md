@@ -136,3 +136,11 @@ The raw datasets are included in this zip at the user's request. Before publishi
 - Power BI dashboard
 - Dashboard screenshots
 - Additional business insights
+
+## Key Insights
+
+- CPI shows a steady upward trend with inflation spikes post-2020
+- Housing prices in London have significantly increased over time
+- Normalized comparison shows both CPI and housing prices rising together
+- Positive correlation exists between CPI and housing prices
+- Suggests inflation directly impacts housing affordability
