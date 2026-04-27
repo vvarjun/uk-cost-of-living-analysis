@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+# Raw datasets are included in this portfolio repo at the user's request.
+data/processed/*
+outputs/models/*
+outputs/figures/*
+!data/processed/.gitkeep
+!outputs/models/.gitkeep
+!outputs/figures/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
