@@ -123,3 +123,16 @@ After running the scripts, the project will generate:
 ## Notes Before Publishing
 
 The raw datasets are included in this zip at the user's request. Before publishing the repository publicly, review each source's reuse terms and keep the source attribution in this README and `data/README.md`.
+## Project Roadmap
+
+### v1.0
+- Raw datasets added
+- Data validation pipeline completed
+- Processed datasets generated
+- Housing + CPI master dataset created
+- EDA notebook added
+
+### v2.0 Planned
+- Power BI dashboard
+- Dashboard screenshots
+- Additional business insights
